@@ -75,7 +75,7 @@
     </header>
     <div id="main" role="main">
 		<div id='ce_gallery'>
-			<img class='ce_gal_image' src='./img/img5.jpg' alt='Gallery Image'/>
+			<img class='ce_gal_image' src='./img/img6.jpg' alt='Gallery Image'/>
 			<ul id='ce_gal_carousel'>
 				<li><a href='#'><img src='./img/tb_img1.jpg' alt='thumb_1' /></a></li>
 				<li><a href='#'><img src='./img/tb_img2.jpg' alt='thumb_2' /></a></li>
